@@ -140,6 +140,79 @@ BootStrap(w3school)
 
   </details>
 
+  <details>
+    <summary>코인 세탁 예약 서비스</summary>
+      
+### Maven Framework 기반 코인 세탁 예약 서비스**(5명) Back - End**
+
+기간 : 2023.05.15~2023.06.09 / 
+
+링크 : https://github.com/juwon9871/Projects-Criring
+
+**개요**
+
+- 코인 세탁 위치 검색 및 예약 서비스 웹 페이지(MVC 패턴)
+
+- 이용자 관리
+    - 회원 가입
+    - 로그인
+    - 정보 수정
+    - 회원 탈퇴
+    - 마이페이지
+
+- 코인 세탁 예약
+    - 매장 검색
+    - 예약서비스
+    - 캘린더
+
+- 게시판
+    - 리뷰게시판
+    - 문의게시판
+
+- 기타
+    - 지도 검색
+    - 챗봇
+
+**담당**
+
+- 일반 사용자, 관리자로 로그인했을 시 보여지는 변경된 인터페이스 구현
+- 모든 리뷰를 따로 구현하여 검색, 조회, 삭제, 페이징
+- 사용자들과 관리자들의 소통할 수 있는 문의 게시판(CRUD)
+- 문의게시판 답글, 조회수, 페이징
+- 게시판 이미지 업로드 기능 구현
+- 프로젝트 전체 유효성 검사
+
+- **라이브러리**
+    - javax.servlet-api(4.0.1)
+    - ojdbc8(21.1.0)
+    - mybatis(3.5.6)
+    - lombok(1.18.24)
+    - cos(2020.4)
+
+- **SERVER**
+    - Tomcat v8.5
+
+   </details>
+
+<details>
+    <summary>소개팅어플 콘솔버전</summary>
+
+### (콘솔) 블라인드매치 / 다있소 **Back - End**
+
+기간 : 2023.03.27~2023.04.05 / 2023.04.17~2023.05.02 /  
+
+링크 : https://github.com/juwon9871/Projects-Console
+**개요**
+
+- 이성과의 연결을 해주는 매칭 서비스 / 책을 조회하고 독자들의 리뷰작성, 조회 및 검색 서비스
+
+**담당**
+
+- 이성 매칭 알고리즘, 랜덤 매칭, 1:1 매 서비스 구현
+- 리뷰 게시판 CRUD, 조회수, 페이징처리
+
+  </details>
+
 <!--
 **juwon9871/juwon9871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
