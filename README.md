@@ -26,6 +26,115 @@
 
 - Git
 
+# Projects
+
+---
+
+### (웹)반려동물 피부 질환 자가 진단 서비스(5명) **Back - End / Front - End**
+
+기간 : 2023.07.11~2023.08.23 / 
+
+링크 : https://github.com/juwon9871/Projects-PetCheck
+
+**개요**
+
+- 반려동물 피부 질환 자가 진단 및 사용자 커뮤니티 서비스 구현
+
+- 이용자 관리
+    - 회원 가입
+    - 로그인
+    - SNS 로그인
+    - 펫 등록
+    - 마이페이지
+
+- 자가 진단
+    - 사진 등록
+    - 피부 분석
+    - 결과
+
+- 공유 다이어리
+    - 초대 기능
+    - 캘린더
+    - 게시판
+
+- 기타
+    - 메인페이지
+    - 지도 검색
+    - 게시판
+    - 챗봇
+
+**담당**
+
+- 전체 DB 설계
+- Spring 서버 구축
+- 이용자 관리 (회원 등록, 펫 등록, 로그인, SNS로그인)
+- 마이페이지
+
+- **라이브러리**
+    - lombok(1.18.24)
+    - HikariCP(3.4.5)
+    - mybatis-spring(2.0.6)
+    - mysql-connector-java(8.0.16)
+    - mybatis(3.4.6)
+    - spring-jdbc(5.3.20)
+    - jackson-databind(2.14.2)
+    - spring-websocket
+
+- **SERVER**
+    - Apache Tomcat 8.0
+
+### Spring Framework기반 게시판**(개인) Back - End**
+
+kakao API(지도, 검색)
+
+BootStrap(w3school)
+
+기간 : 2023.06.15~2023.06.30 / 
+
+링크 : https://github.com/juwon9871/Projects-SpringMVC
+
+**개요**
+
+- MVC 패턴과 JavaScript AJAX를 이용한 비동기 게시판
+
+- 이용자 관리
+    - 로그인
+
+- 게시판
+    - 글 출력
+    - 글 등록, 수정, 삭제
+    - 글 상세 보기
+    - 조회수
+    - 댓글
+    - 검색 기능
+    - 페이징
+
+- API
+    - 지도 검색
+    - 도서 검색
+
+**담당**
+
+- 스프링 기반 전자 정부 프레임 워크 기반 웹 게시판 구현
+- 회원 가입, 로그인
+- 게시판 등록, 수정, 삭제, 조회수, 조회, 페이징
+- Kakao Open API 활용한 지도 구현
+- Kakao Open API 활용한 도서 검색 및 조회 결과 출력
+- Ajax를 이용한 비동기 처리
+
+- **라이브러리**
+    - lombok(1.18.24)
+    - HikariCP(3.4.5)
+    - mybatis-spring(2.0.6)
+    - mysql-connector-java(5.1.49)
+    - mybatis(3.4.6)
+    - spring-jdbc(5.3.20)
+    - jackson-databind(2.14.2)
+
+- **SERVER**
+    
+    Apache Tomcat 8.0
+
 <!--
 **juwon9871/juwon9871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
