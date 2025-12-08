@@ -9,6 +9,23 @@
 - 쉽게 이해할 수 있는 코드, 유지보수가 편한 코드가 좋은 코드라고 생각합니다.
 **좋은 코드**를 만들기 위해 **노력**하겠습니다. 또한 **꼭** **잘** 해내겠습니다.
 
+## Skills
+
+### **Strong**
+
+- **Java / Spring / JavaScript / AJAX**
+- **MySQL, Oracle**
+- **HTML / CSS**
+
+### **knowledgeable**
+
+- Python
+- Raspberry Pi / Hadoop
+
+### **ETC**
+
+- Git
+
 <!--
 **juwon9871/juwon9871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
