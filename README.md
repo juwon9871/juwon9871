@@ -30,7 +30,7 @@
 
 ---
 
-<summary>눌러서 보기</summary>
+<details>
 ### (웹)반려동물 피부 질환 자가 진단 서비스(5명) **Back - End / Front - End**
 
 기간 : 2023.07.11~2023.08.23 / 
@@ -135,6 +135,8 @@ BootStrap(w3school)
 - **SERVER**
     
     Apache Tomcat 8.0
+
+  </details>
 
 <!--
 **juwon9871/juwon9871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
