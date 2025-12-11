@@ -35,7 +35,7 @@
 # Projects
 
 ---
-
+<details>
 <summary>
   ### (웹)반려동물 피부 질환 자가 진단 서비스(5명) **Back - End / Front - End**
 </summary>
@@ -90,6 +90,8 @@
 
 - **SERVER**
     - Apache Tomcat 8.0
+
+</details>
  
 ### Spring Framework기반 게시판**(개인) Back - End**
 
