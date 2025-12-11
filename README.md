@@ -153,7 +153,12 @@ BootStrap(w3school)
 
   </details>
 
+<details>
+  <summary>
+
 ### Maven Framework 기반 코인 세탁 예약 서비스**(5명) Back - End**
+
+  </summary>
 
 기간 : 2023.05.15~2023.06.09 / 
 
@@ -202,7 +207,14 @@ BootStrap(w3school)
 - **SERVER**
     - Tomcat v8.5
  
+</details>
+
+<details>
+
+  <summary>
+ 
 ### (콘솔) 블라인드매치 / 다있소 **Back - End**
+  </summary>
 
 기간 : 2023.03.27~2023.04.05 / 2023.04.17~2023.05.02 /  
 
@@ -216,6 +228,8 @@ BootStrap(w3school)
 
 - 이성 매칭 알고리즘, 랜덤 매칭, 1:1 매 서비스 구현
 - 리뷰 게시판 CRUD, 조회수, 페이징처리
+
+</details>
 
 # **Summary**
 
