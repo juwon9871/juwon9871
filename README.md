@@ -40,6 +40,8 @@
   
   ### (웹)반려동물 피부 질환 자가 진단 서비스(5명) **Back - End / Front - End**
 
+  </summary>
+
 기간 : 2023.07.11~2023.08.23 / 
 
 링크 : https://github.com/juwon9871/Projects-PetCheck
@@ -90,7 +92,6 @@
 
 - **SERVER**
     - Apache Tomcat 8.0
-  </summary>
 
 </details>
  
