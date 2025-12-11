@@ -94,8 +94,12 @@
     - Apache Tomcat 8.0
 
 </details>
- 
+ <details>
+  <summary>
+   
 ### Spring Framework기반 게시판**(개인) Back - End**
+
+  </summary>
 
 kakao API(지도, 검색)
 
@@ -146,6 +150,8 @@ BootStrap(w3school)
 - **SERVER**
     
     Apache Tomcat 8.0
+
+  </details>
 
 ### Maven Framework 기반 코인 세탁 예약 서비스**(5명) Back - End**
 
